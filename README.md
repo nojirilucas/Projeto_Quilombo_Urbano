@@ -1,4 +1,4 @@
-# Projeto_Quilombo_Urbano
+# Projeto Quilombo Urbano
 uma comunidade preservava os valores de um sistema quilombola, como autogestão, resistência cultural e solidariedade coletiva. Os moradores mantinham viva a memória dos ancestrais. No coração do bairro, a Rua Afonso Santana levava ao Centro Comunitário, construído em 2011 na Universidade Federal de São João del Rei.
 
 O Centro Comunitário foi transformado no Centro Cultural Quilombo Urbano pelo Movimento Negro de São João del-Rei em parceria com o Grupo de Pesquisa Tugu-ná. O objetivo era criar um espaço dedicado à cultura afro-brasileira e aos saberes ancestrais. O centro se tornou um lugar de encontro e estudo, oferecendo oficinas, projetos de extensão e bolsas acadêmicas.
